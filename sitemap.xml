@@ -221,13 +221,6 @@
   </url>
   
   <url>
-    <loc>https://huyvu15.github.io/tags/QQbot/</loc>
-    <lastmod>2024-06-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://huyvu15.github.io/tags/AI/</loc>
     <lastmod>2024-06-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -284,6 +277,27 @@
   </url>
   
   <url>
+    <loc>https://huyvu15.github.io/tags/ChatGPT/</loc>
+    <lastmod>2024-06-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://huyvu15.github.io/tags/Github/</loc>
+    <lastmod>2024-06-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://huyvu15.github.io/tags/QQbot/</loc>
+    <lastmod>2024-06-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://huyvu15.github.io/tags/HW/</loc>
     <lastmod>2024-06-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -298,14 +312,14 @@
   </url>
   
   <url>
-    <loc>https://huyvu15.github.io/tags/ChatGPT/</loc>
+    <loc>https://huyvu15.github.io/tags/NCKH/</loc>
     <lastmod>2024-06-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://huyvu15.github.io/tags/Github/</loc>
+    <loc>https://huyvu15.github.io/tags/Math/</loc>
     <lastmod>2024-06-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -334,20 +348,6 @@
   
   <url>
     <loc>https://huyvu15.github.io/tags/Luogu/</loc>
-    <lastmod>2024-06-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://huyvu15.github.io/tags/NCKH/</loc>
-    <lastmod>2024-06-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://huyvu15.github.io/tags/Math/</loc>
     <lastmod>2024-06-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -412,13 +412,6 @@
   </url>
   
   <url>
-    <loc>https://huyvu15.github.io/categories/QQbot/</loc>
-    <lastmod>2024-06-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://huyvu15.github.io/categories/Computer-Vision/</loc>
     <lastmod>2024-06-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -427,6 +420,20 @@
   
   <url>
     <loc>https://huyvu15.github.io/categories/Data/</loc>
+    <lastmod>2024-06-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://huyvu15.github.io/categories/Technical-guide/</loc>
+    <lastmod>2024-06-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://huyvu15.github.io/categories/QQbot/</loc>
     <lastmod>2024-06-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -447,14 +454,14 @@
   </url>
   
   <url>
-    <loc>https://huyvu15.github.io/categories/Technical-guide/</loc>
+    <loc>https://huyvu15.github.io/categories/DE/Interview/</loc>
     <lastmod>2024-06-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://huyvu15.github.io/categories/DE/Interview/</loc>
+    <loc>https://huyvu15.github.io/categories/Learning/</loc>
     <lastmod>2024-06-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -475,7 +482,7 @@
   </url>
   
   <url>
-    <loc>https://huyvu15.github.io/categories/Learning/</loc>
+    <loc>https://huyvu15.github.io/categories/Technical-guide/Github/</loc>
     <lastmod>2024-06-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -489,13 +496,6 @@
   </url>
   
   <url>
-    <loc>https://huyvu15.github.io/categories/Windows/</loc>
-    <lastmod>2024-06-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://huyvu15.github.io/categories/Linux/kali/</loc>
     <lastmod>2024-06-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -503,14 +503,14 @@
   </url>
   
   <url>
-    <loc>https://huyvu15.github.io/categories/Technical-guide/Github/</loc>
+    <loc>https://huyvu15.github.io/categories/Python/Blue-Bridge/</loc>
     <lastmod>2024-06-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://huyvu15.github.io/categories/Python/Blue-Bridge/</loc>
+    <loc>https://huyvu15.github.io/categories/Windows/</loc>
     <lastmod>2024-06-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
